@@ -1,4 +1,4 @@
-# Contributing to the Panther ecosystem
+# Contributing to the Sirens Treasure ecosystem
 
 Thanks for taking the time to contribute !
 
