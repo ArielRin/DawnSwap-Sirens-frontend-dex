@@ -106,7 +106,7 @@ const config: MenuEntry[] = [
   //   items: [
   //     {
   //       label: 'BscScan',
-  //       href: 'https://bscscan.com/token/0x1f546ad641b56b86fd9dceac473d1c7a357276b7',
+  //       href: 'https://redlightscan.finance/token/0x1f546ad641b56b86fd9dceac473d1c7a357276b7',
   //     },
   //     {
   //       label: 'DappRadar',
@@ -119,10 +119,6 @@ const config: MenuEntry[] = [
   //     {
   //       label: 'CoinMarketCap',
   //       href: 'https://coinmarketcap.com/currencies/pantherswap/',
-  //     },
-  //     {
-  //       label: 'LiveCoinWatch',
-  //       href: 'https://www.livecoinwatch.com/price/PantherSwap-PANTHER',
   //     },
   //     {
   //       label: 'Vfat',

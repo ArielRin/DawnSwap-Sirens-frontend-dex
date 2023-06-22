@@ -10,6 +10,92 @@
   "logoURI": "/images/coins/wbnb.png",
   "keywords": ["pancake", "default"],
   "tokens": [
+
+
+
+    {
+      "name": "Red Light",
+      "symbol": "REDLC",
+      "address": "0x00F22F97e249B980A1df5A091FcCbd6599600779",
+      "chainId": 2611,
+      "decimals": 18,
+      "logoURI": "https://dawnswap.finance/images/tokens/0x00F22F97e249B980A1df5A091FcCbd6599600779.png"
+    },
+    {
+      "name": "Tether USDT-R",
+      "symbol": "USDT-R",
+      "address": "0x73E84bFD35C3f1537A72180D1481E1eABf64B70b",
+      "chainId": 2611,
+      "decimals": 18,
+      "logoURI": "https://dawnswap.finance/images/tokens/0x73E84bFD35C3f1537A72180D1481E1eABf64B70b.png"
+    },
+    {
+      "name": "Dawn Token",
+      "symbol": "DAWN",
+      "address": "0x59cd0c1879b995197309eceace9540766d5a2a75",
+      "chainId": 2611,
+      "decimals": 18,
+      "logoURI": "https://dawnswap.finance/images/tokens/0x59cd0c1879b995197309eceace9540766d5a2a75.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+      "chainId": 2611,
+      "decimals": 18,
+      "logoURI": "https://dawnswap.finance/images/tokens/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b.png"
+    },
+    {
+      "name": "WBTC Token",
+      "symbol": "WBTC",
+      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+      "chainId": 2611,
+      "decimals": 18,
+      "logoURI": "https://dawnswap.finance/images/tokens/0x765277EebeCA2e31912C9946eAe1021199B39C61.png"
+    },
+    {
+      "name": "Sirens Treasure Token",
+      "symbol": "SIREN",
+      "address": "0x93E7ae1eF759Ee2dBEf0F87424b08d7Af7E4BcA5",
+      "chainId": 2611,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xaB4e146070C9A1799D33302823E3397569B8e230.png"
+    },
+    {
+      "name": "The Umbrella Token Community Wealth",
+      "symbol": "UMBRELLA",
+      "address": "0x4A859b2FBaE3A4Bfd36356828b0718EbDf27f5aC",
+      "chainId": 2611,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xc6D90a63eB2398eEb672061689129B2251D010bF.png"
+    },
+    {
+      "name": "System 7 Token",
+      "symbol": "SYS7",
+      "address": "0xa17a033f3eA30411f2FA88AAF894eEC2A2E08242",
+      "chainId": 2611,
+      "decimals": 9,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xa17a033f3eA30411f2FA88AAF894eEC2A2E08242.png"
+    },
+    {
+      "name": "Eeyore Token",
+      "symbol": "EEYORE",
+      "address": "0xA9a9C8ccf854342896CB8d23EffC73E094CD7C8f",
+      "chainId": 2611,
+      "decimals": 9,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xA9a9C8ccf854342896CB8d23EffC73E094CD7C8f.png"
+    },
+    {
+      "name": "The Haus Token Degen Haus BSC",
+      "symbol": "HAUS",
+      "address": "0x4604c631823ab1dBE9811c1447c156073cF6EbFd",
+      "chainId": 2611,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x30C628a85E13CD9dea174b3361c6CA267F78a1D4.png"
+    },
+
+
+
     {
       "name": "WBNB Token",
       "symbol": "WBNB",

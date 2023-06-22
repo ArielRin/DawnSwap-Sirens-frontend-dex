@@ -15,7 +15,7 @@ const Menu: React.FC = (props) => {
   const { isDark, toggleTheme } = useTheme()
   const priceData = useGetPriceData()
 
-  const pantherAddress = '0x1f546aD641B56b86fD9dCEAc473d1C7a357276B7'
+  const pantherAddress = '0x93E7ae1eF759Ee2dBEf0F87424b08d7Af7E4BcA5'
   const cakePriceUsd = priceData && priceData.data[pantherAddress] ? Number(priceData.data[pantherAddress].price) : Number(0)
   // const profile = useGetLocalProfile()
 
@@ -41,7 +41,7 @@ const Menu: React.FC = (props) => {
       langs={allLanguages}
       setLang={setSelectedLanguage}
       cakePriceUsd={cakePriceUsd}
-      cakePriceLink={`https://bscscan.com/token/${pantherAddress}`}
+      cakePriceLink={`https://redlightscan.finance/token/${pantherAddress}`}
       /* profile={profile} */
       {...props}
     />
