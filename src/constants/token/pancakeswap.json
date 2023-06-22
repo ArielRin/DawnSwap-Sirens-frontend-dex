@@ -1,5 +1,5 @@
 {
-  "name": "pantherswap",
+  "name": "pancakeswap",
   "timestamp": "2020-08-25T15:41:29.665Z",
   "version": {
     "major": 1,
@@ -27,7 +27,7 @@
       "address": "0x73E84bFD35C3f1537A72180D1481E1eABf64B70b",
       "chainId": 2611,
       "decimals": 18,
-      "logoURI": "https://dawnswap.finance/images/tokens/0x73E84bFD35C3f1537A72180D1481E1eABf64B70b.png"
+      "logoURI": "/images/coins/USDT-icon.png"
     },
     {
       "name": "Dawn Token",
