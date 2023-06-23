@@ -14,8 +14,17 @@
 
 
     {
-      "name": "Red Light",
+      "name": "Redlight Coin",
       "symbol": "REDLC",
+      "address": "0x00F22F97e249B980A1df5A091FcCbd6599600779",
+      "chainId": 2611,
+      "decimals": 18,
+      "logoURI": "https://dawnswap.finance/images/tokens/0x00F22F97e249B980A1df5A091FcCbd6599600779.png"
+    },
+
+    {
+      "name": "Wrapped Redlight Coin",
+      "symbol": "WREDLC",
       "address": "0x00F22F97e249B980A1df5A091FcCbd6599600779",
       "chainId": 2611,
       "decimals": 18,
@@ -38,7 +47,7 @@
       "logoURI": "https://dawnswap.finance/images/tokens/0x59cd0c1879b995197309eceace9540766d5a2a75.png"
     },
     {
-      "name": "Ethereum Token",
+      "name": "Ethereum ",
       "symbol": "ETH",
       "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
       "chainId": 2611,
@@ -46,7 +55,15 @@
       "logoURI": "https://dawnswap.finance/images/tokens/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b.png"
     },
     {
-      "name": "WBTC Token",
+      "name": "Scarlet Token",
+      "symbol": "SCAR",
+      "address": "0x0bD673278Ebf8ea76d879eD97e769c00155Be1c5",
+      "chainId": 2611,
+      "decimals": 18,
+      "logoURI": "https://dawnswap.finance/images/tokens/0x0bD673278Ebf8ea76d879eD97e769c00155Be1c5.png"
+    },
+    {
+      "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
       "chainId": 2611,
