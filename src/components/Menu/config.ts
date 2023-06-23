@@ -15,7 +15,7 @@ const config: MenuEntry[] = [
 
     {
       label: 'Sirens Trade',
-      icon: 'TradeIcon',
+      icon: 'HomeIcon',
       initialOpenState: true,
       items: [
         {
