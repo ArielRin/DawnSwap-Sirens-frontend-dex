@@ -227,6 +227,25 @@ const config: MenuEntry[] = [
   //     },
   //   ],
   // },
+    {
+      label: 'Sirens BSC',
+      icon: 'FarmIcon',
+      href: 'https://swap.sirenstreasure.tk',
+    },
+    {
+      label: 'More',
+      icon: 'MoreIcon',
+      items: [
+        // {
+        //   label: 'Voting',
+        //   href: 'https://voting.pancakeswap.finance',
+        // },
+        {
+          label: 'Github Repo',
+          href: 'https://github.com/ArielRin/DawnSwap-Sirens-frontend-dex',
+        },
+      ],
+    },
 ]
 
 export default config
