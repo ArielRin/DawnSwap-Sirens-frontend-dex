@@ -12,20 +12,37 @@ const config: MenuEntry[] = [
   //   href: '/pool',
   // },
   // {
-  //   label: 'Trade',
-  //   icon: 'TradeIcon',
-  //   initialOpenState: true,
-  //   items: [
-  //     {
-  //       label: 'Exchange',
-  //       href: '/swap',
-  //     },
-  //     {
-  //       label: 'Liquidity',
-  //       href: '/pool',
-  //     },
-  //   ],
-  // },
+
+    {
+      label: 'Sirens Trade',
+      icon: 'TradeIcon',
+      initialOpenState: true,
+      items: [
+        {
+          label: 'Exchange',
+          href: 'https://red.sirenstreasure.tk/#/swap',
+        },
+        {
+          label: 'Liquidity',
+          href: 'https://red.sirenstreasure.tk/#/pool',
+        },
+      ],
+    },
+    {
+      label: 'DawnSwap Trade',
+      icon: 'TradeIcon',
+      initialOpenState: true,
+      items: [
+        {
+          label: 'Exchange',
+          href: '/swap',
+        },
+        {
+          label: 'Liquidity',
+          href: '/pool',
+        },
+      ],
+    },
   // {
   //   label: 'Farms',
   //   icon: 'FarmIcon',
