@@ -43,11 +43,6 @@ const config: MenuEntry[] = [
         },
       ],
     },
-  {
-    label: 'Sirens BSC',
-    icon: 'FarmIcon',
-    href: 'https://swap.sirenstreasure.tk',
-  },
   // {
   //   label: 'Pools',
   //   icon: 'PoolIcon',
@@ -199,6 +194,11 @@ const config: MenuEntry[] = [
   //   icon: 'IfoIcon',
   //   href: 'https://pancakeswap.finance/ifo',
   // },
+  {
+    label: 'Sirens BSC',
+    icon: 'FarmIcon',
+    href: 'https://swap.sirenstreasure.tk',
+  },
   {
     label: 'More',
     icon: 'MoreIcon',
