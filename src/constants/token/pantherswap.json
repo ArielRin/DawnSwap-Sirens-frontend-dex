@@ -95,6 +95,14 @@
       "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0xC9fc1A7fA5545F21E454C78957A5fD4a1D83A999.png"
     },
     {
+      "name": "RedHotSauce Token",
+      "symbol": "REDHOTSAUCE",
+      "address": "0x6aa719dDEeE900E487e9a46d2Eaac7926466E882",
+      "chainId": 2611,
+      "decimals": 18,
+      "logoURI": "https://swap.sirenstreasure.tk/images/tokens/0x6aa719dDEeE900E487e9a46d2Eaac7926466E882.png"
+    },
+    {
       "name": "The Haus Token Degen Haus BSC",
       "symbol": "HAUS",
       "address": "0x4604c631823ab1dBE9811c1447c156073cF6EbFd",
