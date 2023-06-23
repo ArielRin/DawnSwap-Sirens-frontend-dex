@@ -5,13 +5,13 @@ const GlobalStyle = createGlobalStyle`
     font-family: 'Mitr', sans-serif;
   }
   body {
-    background-color: ${({ theme }) => theme.colors.background};
 
-    img {
-      height: auto;
-      max-width: 100%;
-    }
-  }
+  background-image: url('/images/oldbkg.gif');
+  background-size: cover;
+  min-height: 100vh; /* required for full page background */
+  justifyContent: 'center';
+   alignItems: 'center';
+}
 `
 
 export default GlobalStyle
