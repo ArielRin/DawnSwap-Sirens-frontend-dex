@@ -8,7 +8,7 @@ type ChainTokenList = {
 }
 
 export const BUSD = new Token(ChainId.MAINNET, '0xe9e7cea3dedca5984780bafc599bd69add087d56', 18, 'BUSD', 'Binance USD')
-export const USDT = new Token(ChainId.MAINNET, '0x73E84bFD35C3f1537A72180D1481E1eABf64B70b', 18, 'USDT-R', 'RedLight USD')
+export const USDT = new Token(ChainId.MAINNET, '0x73E84bFD35C3f1537A72180D1481E1eABf64B70b', 18, 'USDT-R', 'RedLight USDT-R')
 
 const WETH_ONLY: ChainTokenList = {
   [ChainId.MAINNET]: [WETH[ChainId.MAINNET]],
