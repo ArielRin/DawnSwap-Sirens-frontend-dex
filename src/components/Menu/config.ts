@@ -43,11 +43,11 @@ const config: MenuEntry[] = [
         },
       ],
     },
-  // {
-  //   label: 'Farms',
-  //   icon: 'FarmIcon',
-  //   href: 'https://pantherswap.com/farms',
-  // },
+  {
+    label: 'Sirens BSC',
+    icon: 'FarmIcon',
+    href: 'https://swap.sirenstreasure.tk',
+  },
   // {
   //   label: 'Pools',
   //   icon: 'PoolIcon',
@@ -195,40 +195,24 @@ const config: MenuEntry[] = [
   //   ],
   // },
   // {
-  //   label: 'IFO',
+  //   label: 'IFO',https://t.co/YPVKl3u3Du
   //   icon: 'IfoIcon',
   //   href: 'https://pancakeswap.finance/ifo',
   // },
-  // {
-  //   label: 'More',
-  //   icon: 'MoreIcon',
-  //   items: [
-  //     // {
-  //     //   label: 'Voting',
-  //     //   href: 'https://voting.pancakeswap.finance',
-  //     // },
-  //     {
-  //       label: 'Github',
-  //       href: 'https://github.com/pantherswap',
-  //     },
-  //     {
-  //       label: 'Docs',
-  //       href: 'https://docs.pantherswap.com',
-  //     },
-  //     {
-  //       label: 'Roadmap',
-  //       href: 'https://docs.pantherswap.com/roadmap',
-  //     },
-  //     {
-  //       label: 'Blog',
-  //       href: 'https://pantherswap.medium.com',
-  //     },
-  //     {
-  //       label: 'Voting',
-  //       href: 'https://voting.pantherswap.com/',
-  //     },
-  //   ],
-  // },
+  {
+    label: 'More',
+    icon: 'MoreIcon',
+    items: [
+      // {
+      //   label: 'Voting',
+      //   href: 'https://voting.pancakeswap.finance',
+      // },
+      {
+        label: 'Github Repo',
+        href: 'https://github.com/ArielRin/DawnSwap-Sirens-frontend-dex',
+      },
+    ],
+  },
 ]
 
 export default config
