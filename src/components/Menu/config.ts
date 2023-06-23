@@ -1,26 +1,31 @@
 import { MenuEntry } from '@pantherswap-libs/uikit'
 
 const config: MenuEntry[] = [
-  {
-    label: 'Home',
-    icon: 'HomeIcon',
-    href: '/swap',
-  },
-  {
-    label: 'Trade',
-    icon: 'TradeIcon',
-    initialOpenState: true,
-    items: [
-      {
-        label: 'Exchange',
-        href: '/swap',
-      },
-      {
-        label: 'Liquidity',
-        href: '/pool',
-      },
-    ],
-  },
+  // {
+  //   label: 'Home',
+  //   icon: 'TradeIcon',
+  //   href: '/swap',
+  // },
+  // {
+  //   label: 'Home',
+  //   icon: 'HomeIcon',
+  //   href: '/pool',
+  // },
+  // {
+  //   label: 'Trade',
+  //   icon: 'TradeIcon',
+  //   initialOpenState: true,
+  //   items: [
+  //     {
+  //       label: 'Exchange',
+  //       href: '/swap',
+  //     },
+  //     {
+  //       label: 'Liquidity',
+  //       href: '/pool',
+  //     },
+  //   ],
+  // },
   // {
   //   label: 'Farms',
   //   icon: 'FarmIcon',
