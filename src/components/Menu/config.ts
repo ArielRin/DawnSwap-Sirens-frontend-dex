@@ -14,15 +14,14 @@ const config: MenuEntry[] = [
   {
     label: 'Sirens Trade',
     icon: 'HomeIcon',
-    initialOpenState: true,
     items: [
       {
         label: 'Exchange',
-        href: '/swap',
+        href: 'https://red.sirenstreasure.tk/#/swap',
       },
       {
         label: 'Liquidity',
-        href: '/pool',
+        href: 'https://red.sirenstreasure.tk/#/pool',
       },
     ],
   },
@@ -32,11 +31,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://sirensdawn.sirenstreasure.tk/#/swap',
+        href: '/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://sirensdawn.sirenstreasure.tk/#/pool',
+        href: '/pool',
       },
     ],
   },
@@ -261,12 +260,12 @@ const config: MenuEntry[] = [
           href: 'https://github.com/ArielRin/DawnSwap-Sirens-frontend-dex',
         },
         {
-          label: 'Sirens Documentation',
-          href: 'https://docs.sirenstreasure.tk/redlight-chain-sirens-treasure',
-        },
-        {
           label: 'Twitter',
           href: 'https://twitter.com/SirenTrove_DEX',
+        },
+        {
+          label: 'Telegram',
+          href: 'https://t.me/+-uBRR6AyIeZmMmRl',
         },
       ],
     },
