@@ -1,5 +1,8 @@
 # Sirens Treasure DawnSwap Backup Exchange
 
+#Whitepaper here!
+(https://docs.sirenstreasure.tk/redlight-chain-sirens-treasure)
+
 Can't Trade on redlight! SIRENS TREASURE HAS A BUCKUP SITE!!
 
 We recreated Dawnswaps frontend using Dawns Factory and Router.
