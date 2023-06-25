@@ -16,6 +16,7 @@ const config: MenuEntry[] = [
     {
       label: 'Sirens Trade',
       icon: 'HomeIcon',
+      initialOpenState: true,
       items: [
         {
           label: 'Exchange',
@@ -30,6 +31,7 @@ const config: MenuEntry[] = [
     {
       label: 'DawnSwap Trade',
       icon: 'TradeIcon',
+      initialOpenState: true,
       items: [
         {
           label: 'Exchange',
@@ -200,20 +202,11 @@ const config: MenuEntry[] = [
   {
     label: 'More',
     icon: 'MoreIcon',
-    initialOpenState: true,
     items: [
       // {
       //   label: 'Voting',
       //   href: 'https://voting.pancakeswap.finance',
       // },
-      {
-        label: 'Dexscreener',
-        href: 'https://dexscreener.com/redlightchain',
-      },
-      {
-        label: 'Redlight Bridge',
-        href: 'https://bridge.dawnswap.finance/USDT-R_TO_USDT',
-      },
       {
         label: 'Github Repo',
         href: 'https://github.com/ArielRin/DawnSwap-Sirens-frontend-dex',
