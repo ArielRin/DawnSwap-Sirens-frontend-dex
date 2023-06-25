@@ -232,6 +232,11 @@ const config: MenuEntry[] = [
       href: 'https://swap.sirenstreasure.tk',
     },
     {
+      label: 'Our Documentation',
+      icon: 'GitbookIcon',
+      href: 'https://docs.sirenstreasure.tk/redlight-chain-sirens-treasure',
+    },
+    {
       label: 'More',
       icon: 'MoreIcon',
       items: [
@@ -241,7 +246,7 @@ const config: MenuEntry[] = [
         // },
         {
           label: 'Charts at Dexscreener',
-          href: 'https://bridge.dawnswap.finance/USDT_TO_USDT-R',
+          href: 'https://dexscreener.com/redlightchain',
         },
         {
           label: 'Bridge to Redlight',
@@ -249,19 +254,19 @@ const config: MenuEntry[] = [
         },
         {
           label: 'Token Locks on Redlight',
-          href: 'https://bridge.dawnswap.finance/USDT_TO_USDT-R',
-        },
-        {
-          label: 'Twitter',
-          href: 'https://twitter.com/SirenTrove_DEX',
+          href: 'https://locker.dawnswap.finance/',
         },
         {
           label: 'Github Repo',
           href: 'https://github.com/ArielRin/DawnSwap-Sirens-frontend-dex',
         },
         {
-          label: 'Sirens Documentaion',
+          label: 'Sirens Documentation',
           href: 'https://docs.sirenstreasure.tk/redlight-chain-sirens-treasure',
+        },
+        {
+          label: 'Twitter',
+          href: 'https://twitter.com/SirenTrove_DEX',
         },
       ],
     },
