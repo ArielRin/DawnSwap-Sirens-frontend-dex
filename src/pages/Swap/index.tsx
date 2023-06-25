@@ -285,7 +285,7 @@ const Swap = () => {
             swapErrorMessage={swapErrorMessage}
             onDismiss={handleConfirmDismiss}
           />
-          <PageHeader title="Exchange" description="Redlight Chain Trading Sirens Treasure." />
+          <PageHeader title="Exchange" description="Redlight Chain Dawnswap Trading " />
           <CardBody>
             <AutoColumn gap="md">
               <CurrencyInputPanel

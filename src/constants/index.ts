@@ -1,7 +1,7 @@
 import { ChainId, JSBI, Percent, Token, WETH } from '@pantherswap-libs/sdk'
 
-export const ROUTER_ADDRESS = '0x16eE9c5C05E22665A144C1a09A5fb8bF94F6Bb3B'
-// export const ROUTER_ADDRESS = 'DAWNSWAPSROUTER0xC6A32f7c1796E699f97D89A75DDD2C0e8Ca8358A'
+// export const ROUTER_ADDRESS = '0x16eE9c5C05E22665A144C1a09A5fb8bF94F6Bb3B'
+export const ROUTER_ADDRESS = '0xC6A32f7c1796E699f97D89A75DDD2C0e8Ca8358A'
 
 // a list of tokens by chain
 type ChainTokenList = {
@@ -69,7 +69,7 @@ export const ALLOWED_PRICE_IMPACT_HIGH: Percent = new Percent(JSBI.BigInt(500), 
 // if the price slippage exceeds this number, force the user to type 'confirm' to execute
 export const PRICE_IMPACT_WITHOUT_FEE_CONFIRM_MIN: Percent = new Percent(JSBI.BigInt(1000), BIPS_BASE) // 10%
 // for non expert mode disable swaps above this
-export const BLOCKED_PRICE_IMPACT_NON_EXPERT: Percent = new Percent(JSBI.BigInt(1500), BIPS_BASE) // 15%
+export const BLOCKED_PRICE_IMPACT_NON_EXPERT: Percent = new Percent(JSBI.BigInt(4500), BIPS_BASE) // 45%
 
 // used to ensure the user doesn't send so much ETH so they end up with <.01
 export const MIN_ETH: JSBI = JSBI.exponentiate(JSBI.BigInt(10), JSBI.BigInt(16)) // .01 ETH
