@@ -1,7 +1,6 @@
 # Sirens Treasure DawnSwap Backup Exchange
 
-## Whitepaper here!
-(https://docs.sirenstreasure.tk/redlight-chain-sirens-treasure)
+## Whitepaper here!https://docs.sirenstreasure.tk/redlight-chain-sirens-treasure
 
 
 
@@ -15,7 +14,7 @@ Thats not all! We have created our our exchange here for future use.
 Farms Staking NFTs and Games on Redlight chain
 
 So spin up this instance or go to 
-(https://sirensdawn.sirenstreasure.tk/#/swap)
+https://sirensdawn.sirenstreasure.tk/#/swap
 
 DawSwap Router
 
