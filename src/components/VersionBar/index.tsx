@@ -27,7 +27,7 @@ const VersionBar = () => {
       <Button
         variant="subtle"
         as={Link}
-        href="https://docs.sirenstrasure.tk/"
+        href="https://docs.sirenstreasure.tk/redlight-chain-sirens-treasure"
         endIcon={<HelpIcon color="white" />}
         size="sm"
         ml="16px"

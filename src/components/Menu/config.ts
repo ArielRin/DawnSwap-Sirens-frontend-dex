@@ -29,7 +29,6 @@ const config: MenuEntry[] = [
   {
     label: 'DawnSwap Trade',
     icon: 'TradeIcon',
-    initialOpenState: true,
     items: [
       {
         label: 'Exchange',
@@ -228,7 +227,7 @@ const config: MenuEntry[] = [
   //   ],
   // },
     {
-      label: 'Sirens BSC',
+      label: 'Sirens Treasure BSC',
       icon: 'FarmIcon',
       href: 'https://swap.sirenstreasure.tk',
     },
@@ -241,8 +240,28 @@ const config: MenuEntry[] = [
         //   href: 'https://voting.pancakeswap.finance',
         // },
         {
+          label: 'Charts at Dexscreener',
+          href: 'https://bridge.dawnswap.finance/USDT_TO_USDT-R',
+        },
+        {
+          label: 'Bridge to Redlight',
+          href: 'https://bridge.dawnswap.finance/USDT_TO_USDT-R',
+        },
+        {
+          label: 'Token Locks on Redlight',
+          href: 'https://bridge.dawnswap.finance/USDT_TO_USDT-R',
+        },
+        {
+          label: 'Twitter',
+          href: 'https://twitter.com/SirenTrove_DEX',
+        },
+        {
           label: 'Github Repo',
           href: 'https://github.com/ArielRin/DawnSwap-Sirens-frontend-dex',
+        },
+        {
+          label: 'Sirens Documentaion',
+          href: 'https://docs.sirenstreasure.tk/redlight-chain-sirens-treasure',
         },
       ],
     },
